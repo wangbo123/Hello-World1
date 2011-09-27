@@ -55,7 +55,6 @@
 		5024918714275929000B7CE1 /* TESTAPP123Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TESTAPP123Tests-Prefix.pch"; sourceTree = "<group>"; };
 		5024918814275929000B7CE1 /* TESTAPP123Tests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TESTAPP123Tests.h; sourceTree = "<group>"; };
 		5024918A14275929000B7CE1 /* TESTAPP123Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TESTAPP123Tests.m; sourceTree = "<group>"; };
-		50E0DEA81431A4940012FF7F /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,7 +120,6 @@
 				5024917114275929000B7CE1 /* TESTAPP123ViewController.m */,
 				5024917314275929000B7CE1 /* TESTAPP123ViewController.xib */,
 				5024916214275929000B7CE1 /* Supporting Files */,
-				50E0DEA81431A4940012FF7F /* Header.h */,
 			);
 			path = TESTAPP123;
 			sourceTree = "<group>";
